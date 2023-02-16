@@ -2,5 +2,6 @@
 <!---
 [//]: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Idinaldo&custom_title=Linguagens&hide_progress=true&langs_count=3&hide=javascript,typescript,rust,go,glsl,astro&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 -->
-No momento estudando HTML e CSS
+No momento estudando HTML e CSS  
+
 Domínio sobre Python
