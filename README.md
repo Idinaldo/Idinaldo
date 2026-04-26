@@ -84,7 +84,7 @@ EXAMPLE CARD
 ### GitHub Stats
 
 
-<div style="display: flex; flex-direction: row; gap: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=idinaldo&show_icons=true&theme=gruvbox" width="50%">
-  <img src="https://streak-stats.demolab.com?user=Idinaldo&theme=gruvbox&border_radius=4.5" width="50%">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=idinaldo&show_icons=true&theme=gruvbox" width="45%">
+  <img src="https://streak-stats.demolab.com?user=Idinaldo&theme=gruvbox&border_radius=4.5" width="45%">
 </div>
