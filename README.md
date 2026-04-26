@@ -31,7 +31,7 @@ Eu sou um engenheiro de software, amante de Java, da causa open source e de Cibe
 ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=blue)
-![MySQL](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5da0f6?style=for-the-badge&logo=vite&logoColor=9451f7)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
